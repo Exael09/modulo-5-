@@ -1,0 +1,29 @@
+{
+  "name": "semana-9-app-comunitaria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exael09/modulo-5-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Exael09/modulo-5-/issues"
+  },
+  "homepage": "https://github.com/Exael09/modulo-5-#readme"
+}
